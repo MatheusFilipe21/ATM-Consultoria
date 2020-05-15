@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="atm_consultoria">ATM Consultoria</string>
+    <string name="atendimento_atmconsultoria_com_br">atendimento@atmconsultoria.com.br</string>
+    <string name="sistema_de_gest_o_e_qualidade">Sistema de gestão e qualidade</string>
+    <string name="texto_sistema_de_gestao_e_qualidade">Lorem ipsum erat lacus ultrices et eros dui taciti semper praesent, elementum aptent odio elit sed fusce porttitor nulla tincidunt, praesent mattis lorem maecenas a eros dictumst et fringilla. faucibus orci aenean dui tellus ad rhoncus habitant, amet tristique nibh nullam pellentesque consequat duis, et aptent cubilia lectus platea torquent. scelerisque urna varius mauris inceptos ullamcorper malesuada quisque, ante platea quisque placerat per est, aenean curae curabitur lectus habitant sodales. orci vestibulum rutrum iaculis aliquam eu odio metus fringilla volutpat a, lectus elit vestibulum facilisis litora lorem adipiscing vel. mollis quisque maecenas lorem eros arcu ipsum, elit aliquet sapien auctor dapibus nam, fames est blandit vestibulum dui.</string>
+    <string name="sistema_de_desempenho">Sistema de desempenho</string>
+    <string name="texto_sistema_de_desempenho">Lorem ipsum erat lacus ultrices et eros dui taciti semper praesent, elementum aptent odio elit sed fusce porttitor nulla tincidunt, praesent mattis lorem maecenas a eros dictumst et fringilla. faucibus orci aenean dui tellus ad rhoncus habitant, amet tristique nibh nullam pellentesque consequat duis, et aptent cubilia lectus platea torquent. scelerisque urna varius mauris inceptos ullamcorper malesuada quisque, ante platea quisque placerat per est, aenean curae curabitur lectus habitant sodales. orci vestibulum rutrum iaculis aliquam eu odio metus fringilla volutpat a, lectus elit vestibulum facilisis litora lorem adipiscing vel. mollis quisque maecenas lorem eros arcu ipsum, elit aliquet sapien auctor dapibus nam, fames est blandit vestibulum dui.</string>
+    <string name="descricao_da_imagem_da_logo">Logo da empresa ATM Consultoria</string>
+    <string name="fragment_que_n_o_est_sendo_utilizado">Fragment que não está sendo utilizado</string>
+    <string name="texto_clientes">Aliquam porttitor malesuada habitasse auctor eu vitae suscipit blandit et habitasse orci sociosqu tristique, gravida ac maecenas inceptos cursus nostra ut dui interdum torquent dui. aliquam proin massa non nec vivamus lorem, taciti et sociosqu sollicitudin convallis ligula tempor, ante lacus nam suscipit habitant</string>
+</resources>
